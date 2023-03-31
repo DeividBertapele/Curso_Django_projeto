@@ -23,6 +23,7 @@ Este projeto foi inspirado no curso de Python e Framework Django -> https://www.
 
 O presente projeto foi desenvolvido utilizando as seguintes tecnologias:
 <hr>
+
     - Vscode
     - Python
     - Django
@@ -35,8 +36,10 @@ O presente projeto foi desenvolvido utilizando as seguintes tecnologias:
     - Insomnia
     - JWT
     - CORS (Cross-Origin Resource Sharing)
+
 <hr>
     Bancos de dados:
+    
         - SQLite
         - Postgres
 
@@ -74,6 +77,20 @@ Criar um super usuário:
 Executar o projeto:
 
     - python manage.py runserver
+    
+    
+<hr>
+
+![django-architecture](https://user-images.githubusercontent.com/43301551/229122451-b335873a-044a-477f-a909-60c02320989a.png)
+
+<hr>
+
+## Apresentação do video:
+
+https://user-images.githubusercontent.com/43301551/229123435-28d226f8-6ed8-46ac-bbb9-89992a242401.mp4
+
+
+
 
 
     
